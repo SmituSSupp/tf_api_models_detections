@@ -1,4 +1,4 @@
-# cloned from https://github.com/ManishSoni1908/Mobilenet-ssd-keras repo
+## cloned and modified from https://github.com/ManishSoni1908/Mobilenet-ssd-keras repo
 
 # MobileNet-SSD300-Keras
 
